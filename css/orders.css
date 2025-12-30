@@ -1264,8 +1264,6 @@ footer .border-top {
 
     .col-md-5 {
         width: 100%;
-        background-color: #04f911;
-
     }
 
     footer form {
@@ -1590,4 +1588,5 @@ footer .col-md-5 form {
     .auth-box h2 {
         font-size: 20px;
     }
+
 }
